@@ -9,12 +9,15 @@ For my individual project I have desided to create a bingo game in which users c
 
 1 You design and build user-friendly, full-stack web applications:
  
-For The backend of my project I use microservices, this way I can run the game and the creating of the bingocarts on diffrent servers. For the frontend I will be using vue because it is a new skill I want to learn and a lot of peolpe in my class will be able to help me if i run into any problems.
+For The backend of my project I use microservices, this way I can run the game and the creating of the bingocarts on diffrent servers. For the frontend I will be using vue because it is a new skill I want to learn and a lot of peolpe in my class will be able to help me if i run into any problems. 
+After a few days of making some test projects i learned the basics of vue. My backend was a lot easyer to make, I statrted making some simple crud operations with for my api. After i made most of the functionality in the backend I started combining it with my fronted. This wasn't as hard as I had expeced and the basic functionalities of my project were implementer rather quickly.
 
 2 You use software tooling and methodology that continuously monitors and improve the software quality during software development:
 
 
 4 You design and implement a (semi)automated software release process that matches the needs of the project context:
+
+For the backend of the group project we made 2 backends witch are deployed on a azure server. to make sure every group member could publish their changes I implemented an automated deploy on the main branches of these projects. 
 
 I have started to try and automate the release of my backend. My project builds into a docker container and I am trying to upload it to a Microsoft Azure service but the automatic part of this pipeline isnt working yet. I can manualy puch publish it to the server from visual studio but I still get errors in github.
 
