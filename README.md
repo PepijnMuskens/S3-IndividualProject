@@ -3,14 +3,14 @@
 Learing outcomes:
 <img src="https://user-images.githubusercontent.com/79635315/153168197-ae36f788-efd4-4f9a-873a-efe1472b79ba.png">
 <h1>Learning outcomes</h1>
-[1](#1-you-design-and-build-user-friendly-full-stack-web-applications)
+[1](#1-you-design-and-build-user-friendly,-full-stack-web-applications)
 
 
 <h1>0 My Individual Project:</h1>
 
 For my individual project I have desided to create a bingo game in which users can make challenges based on statistics of steam games. when a game has a lot of challenges users can use these challenges to create a bingocart. You can select your own bingocart, start a game and invite friends to play along with the same card. The first player to complete a row of challenges wins the game. 
 
-<h1>1 You design and build user-friendly, full-stack web applications:</h1>
+#1 You design and build user-friendly, full-stack web applications:#
  
 For The backend of my project I use microservices, this way I can run the game and the creating of the bingocarts on diffrent servers. For the frontend I will be using vue because it is a new skill I want to learn and a lot of peolpe in my class will be able to help me if i run into any problems. 
 After a few days of making some test projects i learned the basics of vue. My backend was a lot easyer to make, I statrted making some simple crud operations with for my api. After i made most of the functionality in the backend I started combining it with my fronted. This wasn't as hard as I had expeced and the basic functionalities of my project were implementer rather quickly.
