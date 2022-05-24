@@ -22,3 +22,5 @@ For the backend of the group project we made 2 backends witch are deployed on a 
 I have started to try and automate the release of my backend. My project builds into a docker container and I am trying to upload it to a Microsoft Azure service but the automatic part of this pipeline isnt working yet. I can manualy puch publish it to the server from visual studio but I still get errors in github.
 
 8 You act in a professional manner during software development and learning:
+
+After every sprint review for the group project we discus with the stakeholders what featueres they would like us to implement in the next sprint. I try to make sure we dont promise to much and sometimes tell them them what we would like to make next.
