@@ -3,7 +3,7 @@
 Learing outcomes:
 <img src="https://user-images.githubusercontent.com/79635315/153168197-ae36f788-efd4-4f9a-873a-efe1472b79ba.png">
 
-<h1>0 My Individual Project:<h1>
+<h1>0 My Individual Project:<h1/>
 
 For my individual project I have desided to create a bingo game in which users can make challenges based on statistics of steam games. when a game has a lot of challenges users can use these challenges to create a bingocart. You can select your own bingocart, start a game and invite friends to play along with the same card. The first player to complete a row of challenges wins the game. 
 
