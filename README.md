@@ -14,11 +14,20 @@ After a few days of making some test projects i learned the basics of vue. My ba
 
 ### 2 You use software tooling and methodology that continuously monitors and improve the software quality during software development:
 
+### 3 You choose and implement the most suitable agile software development method for your software project:
+
 ### 4 You design and implement a (semi)automated software release process that matches the needs of the project context:
+
 
 I have started to try and automate the release of my backend. My project builds into a docker container and I am trying to upload it to a Microsoft Azure service but the automatic part of this pipeline isnt working yet. I can manualy puch publish it to the server from visual studio but I still get errors in github.
 
 For the backend of the group project we made 2 backends witch are deployed on a azure server. to make sure every group member could publish their changes I implemented an automated deploy on the main branches of these projects. I had tried this before on my own project and got some errors but after a bit of debugging I got it working and fixed the issue in my own project as well.
+
+### 5 You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development:
+
+### 6 You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques:
+
+### 7 You analyze and describe simple business processes that are related to your project:
 
 ### 8 You act in a professional manner during software development and learning:
 
