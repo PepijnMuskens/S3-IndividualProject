@@ -1,9 +1,7 @@
 # S3-IndividualProject!
 
-Learing outcomes:
-<img src="https://user-images.githubusercontent.com/79635315/153168197-ae36f788-efd4-4f9a-873a-efe1472b79ba.png">
 <h1>Learning outcomes</h1>
-<p>test<a href="https://github.com/PepijnMuskens/S3-IndividualProject/blob/main/README.md#1-you-design-and-build-user-friendly-full-stack-web-applications" title="With a Title"></p>
+<img src="https://user-images.githubusercontent.com/79635315/153168197-ae36f788-efd4-4f9a-873a-efe1472b79ba.png">
 
 ### 0 My Individual Project:
 
